@@ -35,6 +35,15 @@ SUBJECT_EXPANSIONS = {
     "brw": "business report writing",
     "e": "economics eco",
     "awb": "advance web development",
+    "os": "operating systems",
+    "sre": "software requirement engineering",
+    "dbs": "database systems",
+    "vp": "visual programming",
+    "vss": "virtual systems and services",
+    "wt": "web technologies",
+    "ms": "modeling and simulation",
+    "dw": "data warehousing"
+
 }
 
 exams_db = defaultdict(lambda: {"title": "", "keywords": "", "urls": []})
