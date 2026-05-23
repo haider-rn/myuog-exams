@@ -42,8 +42,15 @@ SUBJECT_EXPANSIONS = {
     "vss": "virtual systems and services",
     "wt": "web technologies",
     "ms": "modeling and simulation",
-    "dw": "data warehousing"
-
+    "dw": "data warehousing",
+    "oc": "organic chemistry",
+    "tafl": "theory of automata & formal languages",
+    "atw": "academic and technical writing",
+    "isl": "islamic studies islamiat",
+    "ise": "Introduction to software engineering",
+    "pdc": "parallel and distributed computing",
+    "pp": "professional practices",
+    "pk": "pakistan studies pak studies"
 }
 
 exams_db = defaultdict(lambda: {"title": "", "keywords": "", "urls": []})
