@@ -48,7 +48,7 @@ SUBJECT_EXPANSIONS = {
     "atw": "academic and technical writing",
     "isl": "islamic studies islamiat",
     "ise": "Introduction to software engineering",
-    "pdc": "parallel and distributed computing",
+    "pdc": "parallel and distributed computing computer",
     "pp": "professional practices",
     "pk": "pakistan studies pak studies"
 }
