@@ -10,7 +10,7 @@ SUBJECT_EXPANSIONS = {
     "oop": "object oriented programming",
     "dld": "digital logic design",
     "dbms": "database management system",
-    "ds": "discrete structures",
+    "ds": "discrete structures data structures",
     "apl": "advanced programming language",
     "apt": "advanced programming techniques",
     "wst": "web system and technology",
@@ -33,11 +33,11 @@ SUBJECT_EXPANSIONS = {
     "ent": "entrepreneurship",
     "ob": "organizational behavior",
     "brw": "business report writing",
-    "e": "economics eco",
+    "eco": "economics eco",
     "awb": "advance web development",
     "os": "operating systems",
     "sre": "software requirement engineering",
-    "dbs": "database systems",
+    "db": "database systems",
     "vp": "visual programming",
     "vss": "virtual systems and services",
     "wt": "web technologies",
@@ -50,7 +50,13 @@ SUBJECT_EXPANSIONS = {
     "ise": "Introduction to software engineering",
     "pdc": "parallel and distributed computing computer",
     "pp": "professional practices",
-    "pk": "pakistan studies pak studies"
+    "pk": "pakistan studies pak studies",
+    "dsa": "data structures and algorithm",
+    "coal": "computer organization and assembly language",
+    "cc": "compiler construction",
+    "ew": "expository writing",
+    "de": "differential equations"
+
 }
 
 exams_db = defaultdict(lambda: {"title": "", "keywords": "", "urls": []})
